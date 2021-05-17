@@ -13,3 +13,6 @@
  ![](/images/1.jpg)
 
 ### Concepts_and_Workflow_of_MLOPS
+ ![](/images/2.jpg)
+ - The upper layer is the MLOps pipeline (build, deploy, and monitor), which is enabled by drivers such as data, code, artifacts, middleware, and infrastructure. The MLOps pipeline is powered by an array of services, drivers, middleware, and infrastructure, and it crafts ML-driven solutions. By using this pipeline, a business or individual(s) can do quick prototyping, testing, and validating and deploy the model(s) to production at scale frugally and efficiently.
+ 
