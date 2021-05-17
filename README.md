@@ -13,12 +13,12 @@
  ![](/images/1.jpg)
 
 ### Concepts_and_Workflow_of_MLOPS
- ![](/images/2.jpg)
+ ![](/images/2.jpg  =250x250)
  - The upper layer is the MLOps pipeline (build, deploy, and monitor), which is enabled by drivers such as data, code, artifacts, middleware, and infrastructure. The MLOps pipeline is powered by an array of services, drivers, middleware, and infrastructure, and it crafts ML-driven solutions. By using this pipeline, a business or individual(s) can do quick prototyping, testing, and validating and deploy the model(s) to production at scale frugally and efficiently.
  ### ML_solution_development_process
-  ![](/images/3.jpg)
+  ![](/images/3.jpg  =250x250)
  - MLOps can be categorized into small data ops, big data ops, large-scale MLOps, and hybrid MLOps 
-  ![](/images/4.jpg)
+  ![](/images/4.jpg  =250x250)
  ### Implementation_roadmap_for_an_MLOps-based_solution
- ![](/images/5.jpg)
+ ![](/images/5.jpg  =250x250)
  
