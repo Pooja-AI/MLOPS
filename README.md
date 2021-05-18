@@ -2,10 +2,9 @@
 
 ## Table of contents
 * [Intro MLOPS](#Introduction_to_MLOps)
-  * [Introduction to deep learning](#Intro)
-      * [Concepts and Workflow of MLOPS](#Concepts_and_Workflow_of_MLOPS)
-      * [ML Solution](#ML_solution_development_process)
-      * [Roadmap for an MLops](#Implementation_roadmap_for_an_MLOps-based_solution)
+   * [Concepts and Workflow of MLOPS](#Concepts_and_Workflow_of_MLOPS)
+   * [ML Solution](#ML_solution_development_process)
+   * [Roadmap for an MLops](#Implementation_roadmap_for_an_MLOps-based_solution)
 
 ## Introduction_to_MLOps
 
